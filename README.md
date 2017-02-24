@@ -1,11 +1,9 @@
-Website - Resurrection Remix ® ROM
+Website - Praneetsrivastav.com
 ---
 
 
 The website can be accessed through the following URLs:
-> - http://www.resurrectionremix.com
-> - http://xenon92.github.io/resurrectionremix-website/
-
+Praneetsrivastav.com
 
 ####Resources
 > - [NProgress](https://github.com/rstacruz/nprogress)
